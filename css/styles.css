@@ -51,7 +51,7 @@ footer {
 
 /* Home Page */
 .welcome {
-  background-image: url(../images/home-header.jpg);
+  background-image: url(/images/home-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 70vh;
