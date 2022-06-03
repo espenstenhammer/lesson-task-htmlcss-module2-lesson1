@@ -48,7 +48,8 @@ header a {
 footer {
   text-align: center;
 }
+
 /* Home Page */
 .welcome {
-  background-image: url(./images/home-header.jpg);
+  background-image: url(../images/home-header.jpg);
 }
